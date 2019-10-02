@@ -27,7 +27,7 @@ As GC_values, but the genes containing an intron in their 3’-UTR have been del
 Physical_and_genetic_Maps
 This folder contains the physical and genetic maps which were available. Of the four species: Oryza sativa, Brachypodium distachyon, Zea mays and Arabidopsis thaliana.
 For columnname documentation see the MareyMap manual (https://cran.r-project.org/web/packages/MareyMap/vignettes/vignette.pdf)
-### Phytozome_data (data available [here]())
+### Phytozome_data (data available [here](https://mega.nz/#!Ni4Q2KDI!LKAw060pUmPHe7daYEHkRndIi44RMSnhJwUzMRjnDyk))
 Sequence data downloaded from Phytozome.org by Nathalie Zeballos in 2018.
 ### Selected_Chromosomes
 Since most of the species only had scaffolds, we had to choose which scaffolds we considered as chromosomes. Furthermore, we only focused on nuclear DNA and neglected plastid/mitoDNA.
